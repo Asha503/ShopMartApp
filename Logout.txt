@@ -1,4 +1,4 @@
 This is the code for logout
 Added few lines by team member
 Added few more lines by team lead
-#2 Added lines by team member
+#2 Added code lines by team member
